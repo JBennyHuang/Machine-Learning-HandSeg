@@ -10,7 +10,7 @@ tf.executing_eagerly()
 
 capture = cv2.VideoCapture(0)
 
-model = keras.models.load_model('model.h5')
+model = keras.models.load_model('models/model.h5')
 
 while True:
     ret, img = capture.read()
