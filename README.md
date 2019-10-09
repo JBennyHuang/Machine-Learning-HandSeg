@@ -5,4 +5,4 @@ This project consists of training a fully convolutional network to compute 33 di
 
 ## Usage
 1. Install all packages from requirements.txt
-2. Run predict.py using python
+2. Run **predict.py** using python
